@@ -29,7 +29,7 @@ public class PBO_IF2_10116414_DeklarasiDanPengaksesanVariabel {
         nilaiLogika = false;
         nilaiKarakter = 'D';
         
-        //Menampilan Hasil
+        //Tampil Hasil
         System.out.println();
         System.out.println("Isi variabel nilai = " + nilaiInt);
         System.out.println("Isi variable PHi = " + PHI);
